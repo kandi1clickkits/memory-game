@@ -8,7 +8,7 @@ ECHO 	Based on your network speed, the installation may take a while
 ECHO======================================================================================
 setlocal ENABLEDELAYEDEXPANSION
 REM update below path if required
-SET REPO_DOWNLOAD_URL=https://github.com/kandikits/memory-game/releases/download/v1.0.0/memory-game.zip
+SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/memory-game/releases/download/v1.0.0/memory-game.zip
 SET REPO_NAME=memory-game.zip
 SET EXTRACTED_REPO_DIR=memory-game
 SET FILE_TO_RUN=index.html
